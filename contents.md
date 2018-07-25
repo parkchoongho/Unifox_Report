@@ -52,11 +52,11 @@ Mastering Classes and Objects 177p(+ 48 = 225p)
 * 보유 할 수 있는 다양한 종류의 데이터 멤버(static, const, reference) 188p(+ 48 = 236p)
   * static 188p(+ 48 = 236p)
   
-	* const 190p(+ 48 = 238p)
+  * const 190p(+ 48 = 238p)
   
-	* reference 191p(+ 48 = 239p)
+  * reference 191p(+ 48 = 239p)
   
-	* const reference 192p(+ 48 = 240p)
+  * const reference 192p(+ 48 = 240p)
 
 * 구현 할 수 있는 다양한 종류의 메소드,함수(static, const, inline) 193p(+ 48 = 241p)
 	* static 193p(+ 48 = 241p)
