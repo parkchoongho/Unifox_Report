@@ -69,7 +69,6 @@ Mastering Classes and Objects 177p(+ 48 = 225p)
 * Work with default arguments 197p(+ 48 = 245p)
 * Use nested class (nested class) 199p(+ 48 = 247p)
 * Make classes friends of other classes 202p(+ 48 = 250p)
-* Operator overloading  203p(+ 48 = 251p)
 
 Discovering Inheritance Techniques 217p(+ 48 = 265p)
 ------
@@ -79,5 +78,4 @@ Discovering Inheritance Techniques 217p(+ 48 = 265p)
 
 C++ Quirks, Oddities, and Incidentals 273p(+ 48 = 321p)
 ------
-* rvalue and rvalue reference 281p(+ 48 = 299p)
 * type casting 297p(+ 48 = 345p)
